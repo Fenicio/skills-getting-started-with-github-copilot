@@ -74,6 +74,32 @@ section h3 {
   margin-bottom: 8px;
 }
 
+.participants-section {
+  margin-top: 15px;
+  padding-top: 10px;
+  border-top: 1px solid #eee;
+}
+
+.participants-section strong {
+  color: #1a237e;
+  margin-bottom: 5px;
+  display: block;
+}
+
+.participants-section ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.participants-section li {
+  background-color: #e3f2fd;
+  margin-bottom: 4px;
+  padding: 4px 8px;
+  border-radius: 3px;
+  font-size: 14px;
+  color: #1565c0;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
